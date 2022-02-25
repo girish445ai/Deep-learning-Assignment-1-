@@ -110,7 +110,7 @@ Final function which trains the given data according to all the given parameters
     Takes 18 arguments, all of them as their name suggests.
 
 
-To run the code, simply set the values to each of the variables inside sweep_config and below that. Then run colab notebook Assignment1_Neural_networks.ipynb to execute the code.
+To run the code, simply set the values to each of the variables inside sweep_config and below that. Then run colab notebook Feedforward_Neural_networks.ipynb to execute the code.
 An example configuration is given below : -
 
 sweep_config = {
