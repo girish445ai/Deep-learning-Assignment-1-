@@ -2,11 +2,11 @@
 CS6910 Assignment
 ## Authors: R.S.V.GIRISH (EE21S115) , R.JYOTHIRADITYA (CH21SO23)
 -----------------------------------------------------------------------------------------------------------
-### Link to the projecct report:
+### Link to the project wandb report:
 
 
 ### Explanation of the Project :
-The github repository contains the code for assignmnent_1 
+The github repository contains the code for assignmnent_1 of cs6910 which is to build 
 
 
 The functions and various variables used in our code are these : 
